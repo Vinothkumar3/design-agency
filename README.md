@@ -1,7 +1,6 @@
-Design Agency Homepage
+Design Agency
 
 A modern, responsive Design Agency Homepage built with Next.js (App Router), TypeScript, and Tailwind CSS as part of the Next.js Developer Internship assessment.
-
 
 Features
 Modern and responsive landing page
